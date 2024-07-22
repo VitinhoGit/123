@@ -1,9 +1,13 @@
 body{
     background-color: black;
     border: solid  rgba(160, 39, 39, 0.781) 15px;
-    background-image: url(/imgs/logo-removebg-preview.png);
+    background-image: url(/Cardap/imgs/logo-removebg-preview.png);
     background-repeat: no-repeat;
-    background-size: 300px;
+    background-size: 250px;
+    border-radius: 10px;
+    border-width: 50%;
+    margin: 0px 300px;
+    background-position-x: 350px;
 }
 h1{
     color: rgba(160, 39, 39, 0.781);
@@ -16,7 +20,7 @@ h3{
 p{
     color: whitesmoke;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    margin-left: 700px;
+    margin-left: 450px;
     font-size: 20px;
 }
 
