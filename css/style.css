@@ -6,8 +6,8 @@ body{
     background-size: 250px;
     border-radius: 10px;
     border-width: 50%;
-    margin: 0px 300px;
-    background-position-x: 350px;
+    margin: 0px 400px;
+    background-position-x: 450px;
 }
 h1{
     color: rgba(160, 39, 39, 0.781);
@@ -20,12 +20,24 @@ h3{
 p{
     color: whitesmoke;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    margin-left: 450px;
+    margin-left: 340px;
     font-size: 20px;
 }
 
 h4{
     color: rgba(231, 92, 37, 0.781);
     font-family: fantasy;
+    font-size: 20px;
+}
+h5{
+    color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 425px;
+    font-size: 20px;
+}
+h6{
+    color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 360px;
     font-size: 20px;
 }
